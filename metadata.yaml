@@ -1,0 +1,32 @@
+_repo: '---_23907'
+_version: 0.1.0
+alternative_title:
+- Wu Sheng Xi
+- 无声戏
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, Yu
+    aliases:
+    - 李漁
+    - 李渔
+    birthdate: 1611
+    gutenberg_agent_id: '28330'
+    url: http://www.gutenberg.org/2009/agents/28330
+    wikipedia: http://en.wikipedia.org/wiki/Li_Yu_%28author%29
+description: ''
+gutenberg_issued: '2007-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23907'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 無聲戲
+url: http://www.gutenberg.org/ebooks/23907
